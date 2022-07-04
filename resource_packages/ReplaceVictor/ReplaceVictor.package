@@ -1,0 +1,23 @@
+mod = [
+	"ReplaceVictor"
+]
+
+package = [
+	"resource_packages/ReplaceVictor/ReplaceVictor"
+]
+
+lua = [
+	"scripts/mods/ReplaceVictor/*"
+]
+
+unit = [
+  "units/*"
+]
+
+material = [
+  "materials/*"
+]  
+
+texture = [
+  "textures/*"
+]

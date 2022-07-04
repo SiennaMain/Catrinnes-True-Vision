@@ -1,0 +1,33 @@
+actors = [
+	{
+		enabled = true
+		mass = 0
+		name = "fancy1"
+		node = "fancy1"
+		shapes = [
+			{
+				material = "default"
+				shape = "fancy1"
+				template = "default"
+				type = "mesh"
+			}
+		]
+		template = "static"
+	}
+	
+	{
+		enabled = true
+		mass = 0
+		name = "custompainting_1"
+		node = "custompainting_1"
+		shapes = [
+			{
+				material = "default"
+				shape = "custompainting_1"
+				template = "default"
+				type = "mesh"
+			}
+		]
+		template = "static"
+	}
+]

@@ -1,0 +1,26 @@
+materials = {
+   custompainting_1 = "materials/lukejoebob"
+   custompainting_frame = "materials/textured"
+}
+
+renderables = {
+   custompainting_1 = {
+   	always_keep = false
+   	culling = "bounding_volume"
+   	generate_uv_unwrap = false
+   	occluder = false
+   	shadow_caster = true
+   	surface_queries = false
+   	viewport_visible = true
+	}
+	
+	fancy1 = {
+   	always_keep = false
+   	culling = "bounding_volume"
+   	generate_uv_unwrap = false
+   	occluder = false
+   	shadow_caster = true
+   	surface_queries = false
+   	viewport_visible = true
+   }
+} 
